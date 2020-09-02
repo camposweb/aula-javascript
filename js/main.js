@@ -84,3 +84,6 @@ console.log(validaIdade(idade)) */
      document.getElementById('mouseover').innerHTML = 'Passe o mouse aqui';
  }
  
+
+
+
